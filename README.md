@@ -17,7 +17,7 @@ To run your own instructions:
 1. **Edit the `instructionMemory` module**:
    - Replace the current instruction values with your custom RISC-V machine codes.
    - Instructions must follow RV32I encoding.
-   - Use the instruction set provided in the repo (`Instruction set`) for reference.
+   - Use the instruction set provided in the repo [Instruction_Set](./Instruction_Set.pdf) for reference.
 
 2. **Load data into memory manually (if needed)**:
    - In the `RISCV_TOP` module, initialize the `DataMemory` array directly if your program uses memory (e.g., `LW`, `SW`).
