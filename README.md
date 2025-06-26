@@ -37,7 +37,7 @@ To run your own instructions:
 
 ## 📄 Documentation
 
-- For full design details, instruction formats, and supported operations, please read the [Project Summary PDF](./RISCV_Project%20Summary.pdf) provided in the repo.
+- For full design details, instruction formats, and supported operations, please read the [Project Summary PDF](./RISCV_Project_Summary.pdf) provided in the repo.
 - It explains:
   - The architecture and modules used
   - Supported instruction types (R, I, S, B)
