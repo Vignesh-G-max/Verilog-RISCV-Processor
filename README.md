@@ -52,8 +52,8 @@ To run your own instructions:
 - `instructionDecoder.v`: Decodes opcodes and generates control signals
 - `RISCV_TOP.v`: Top-level processor module with PC, registers, memory, ALU, and control logic
 - `RISCV_TB.v`: Testbench for running simulations
-- `Instruction set.pdf`: Reference instruction encodings for RV32I subset
-- `RISCV_Project Summary.pdf`: Detailed explanation of design and supported features
+- `Instruction_set.pdf`: Reference instruction encodings for RV32I subset
+- `RISCV_Project_Summary.pdf`: Detailed explanation of design and supported features
 
 ---
 
